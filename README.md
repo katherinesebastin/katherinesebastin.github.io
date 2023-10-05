@@ -1,5 +1,5 @@
 # Undergraduate Student
 Centria University of Applied Sciences
 
-##Education
+## Education
 High School 
